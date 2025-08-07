@@ -1,5 +1,5 @@
-import axios from 'axios';
 import 'bootstrap';
+import axios from 'axios';
 import jQuery from 'jquery';
 import Popper from '@popperjs/core/dist/umd/popper.js';
 

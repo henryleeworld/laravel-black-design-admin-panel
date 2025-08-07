@@ -60,7 +60,7 @@
                                     </button>
                                 </li>-->
                                 <li class="dropdown nav-item">
-                                    <a class="dropdown-toggle nav-link" href="http://example.com" id="navbarLanguageDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    <a class="dropdown-toggle nav-link" href="javascript:void(0);" id="navbarLanguageDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                         <i class="tim-icons icon-world"></i>
                                         <p class="d-lg-none">{{ strtoupper(app()->getLocale()) }}</p>
                                     </a>
@@ -73,7 +73,7 @@
                                     </ul>
                                 </li>
                                 <li class="dropdown nav-item">
-                                    <a class="dropdown-toggle nav-link" href="http://example.com" id="navbarAccountDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    <a class="dropdown-toggle nav-link" href="javascript:void(0);" id="navbarAccountDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                         <i class="tim-icons icon-settings-gear-63"></i>
                                         <p class="d-lg-none">{{ __('Account') }}</p>
                                     </a>

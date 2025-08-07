@@ -1,4 +1,4 @@
-# Laravel 11 黑色設計管理面板
+# Laravel 12 黑色設計管理面板
 
 黑色設計結合了賞心悅目的顏色、寬敞的卡片、漂亮的文字排版和圖形。在後臺登入頁面中輸入使用者的電子郵件地址和密碼，必須登入管理員帳號才能使用管理帳號。
 
@@ -34,8 +34,8 @@ $ npm run build
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/TFfjEMb.png)
+![](https://i.imgur.com/nN7fO5c.png)
 > 使用現有的帳號登入
 
-![](https://i.imgur.com/tfFHMk4.png)
+![](https://i.imgur.com/gYVMLPM.png)
 > 判斷一個使用者是否可以執行特定行為
